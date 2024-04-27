@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ipt_password" type="id" />
+    <item name="ipt_username" type="id" />
+    <item name="progress" type="id" />
+    <item name="name" type="id" />
+    <item name="description" type="id" />
+    <item name="avatar" type="id" />
+    <item name="recycler" type="id" />
+</resources>
